@@ -2,6 +2,7 @@ import Header from '@/components/Header'
 import Hero from '@/components/Hero'
 import Features from '@/components/Features'
 import HowItWorks from '@/components/HowItWorks'
+import Gallery from '@/components/Gallery'
 import TechStack from '@/components/TechStack'
 import Statistics from '@/components/Statistics'
 import CTA from '@/components/CTA'
@@ -14,6 +15,7 @@ export default function Home() {
       <Hero />
       <Features />
       <HowItWorks />
+      <Gallery />
       <TechStack />
       <Statistics />
       <CTA />

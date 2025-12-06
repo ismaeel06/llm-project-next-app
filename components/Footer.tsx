@@ -12,6 +12,7 @@ export default function Footer() {
   const links = {
     project: [
       { name: 'Features', href: '#features' },
+      { name: 'Gallery', href: '#gallery' },
       { name: 'How It Works', href: '#how-it-works' },
       { name: 'Tech Stack', href: '#tech-stack' },
       { name: 'Demo', href: '#demo' },
